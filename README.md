@@ -8,4 +8,4 @@ react 项目脚手架
 
 ## gallery-by-react
 
-使用 react 实现的图片画廊，访问[图片画廊](http://piaoyidage.github.com/Learning-Journey-React)
+使用 react 实现的图片画廊，访问[图片画廊](http://piaoyidage.github.com/gallery-by-react)
