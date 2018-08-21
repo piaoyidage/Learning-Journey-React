@@ -12,6 +12,10 @@ react 项目脚手架
 
 setState 回调的执行时机
 
+### demo-02
+
+setState 的同步和异步
+
 ## github 项目
 
 ### gallery-by-react
