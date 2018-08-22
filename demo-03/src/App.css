@@ -1,0 +1,30 @@
+.parent {
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.parent::before {
+    display: inline-block;
+    content: 'Parent';
+    color: red;
+    padding: 10px;
+}
+
+.child {
+    border: 1px solid green;
+    margin: 0 auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.child::before {
+    display: block;
+    content: 'Child';
+    padding: 10px;
+    color: green;
+}
+
+.child > span {
+    margin-right: 10px;
+}

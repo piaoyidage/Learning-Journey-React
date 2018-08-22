@@ -16,6 +16,10 @@ setState 回调的执行时机
 
 setState 的同步和异步
 
+### demo-03([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-03))
+
+shouldComponentUpdate 的一种使用场景
+
 ## github 项目
 
 ### gallery-by-react([source](https://github.com/piaoyidage/gallery-by-react))
