@@ -20,6 +20,10 @@ setState 的同步和异步
 
 shouldComponentUpdate 的一种使用场景
 
+### demo-04([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-04))
+
+bind函数传参和箭头函数传参
+
 ## github 项目
 
 ### gallery-by-react([source](https://github.com/piaoyidage/gallery-by-react))
