@@ -85,6 +85,11 @@ Redux 应用中数据的生命周期遵循下面 4 个步骤：
 4. Redux store 保存了根 reducer 返回的完整 state 树
 
 
+## TODO
+
+高级及以下内容待看
+
+
 ## 参考
 1. [Redux 中文文档](http://www.redux.org.cn/)
 
