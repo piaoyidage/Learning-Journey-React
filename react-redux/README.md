@@ -17,7 +17,6 @@
 2. redux
 3. react-redux
 
-## TODO
 
 ### demo-02
 
@@ -25,6 +24,8 @@
 2. redux
 3. react-redux
 4. reselect
+
+## TODO
 
 ### demo-03
 
