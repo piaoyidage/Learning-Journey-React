@@ -1,36 +1,32 @@
 # Learning-Journey-React
 
-进入相应的 source，执行 `yarn start` 或者 `npm start`。
+## React 相关概念
 
-## 文件夹
+👉 [create-react-app](https://github.com/piaoyidage/Learning-Journey-React/tree/master/create-react-app)
 
-### create-react-app([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/create-react-app))
+👉 [setState 回调的执行时机](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-01)
 
-react 项目脚手架
+👉 [setState 的同步和异步](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-02)
 
-### demo-01([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-01))
+👉 [shouldComponentUpdate 的一种使用场景](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-03)
 
-setState 回调的执行时机
+👉 [bind函数传参和箭头函数传参](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-04)
 
-### demo-02([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-02))
 
-setState 的同步和异步
+## React 个人项目
 
-### demo-03([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-03))
+👉 [图片画廊](https://github.com/piaoyidage/gallery-by-react)
 
-shouldComponentUpdate 的一种使用场景
+👉 [音乐播放器](https://github.com/piaoyidage/music-player-by-react)
 
-### demo-04([source](https://github.com/piaoyidage/Learning-Journey-React/tree/master/demo-04))
+## React 周边学习
 
-bind函数传参和箭头函数传参
+👉 [redux](https://github.com/piaoyidage/Learning-Journey-React/tree/master/redux)
 
-## github 项目
+👉 [react-redux](https://github.com/piaoyidage/Learning-Journey-React/tree/master/react-redux)
 
-### gallery-by-react([source](https://github.com/piaoyidage/gallery-by-react))
+👉 [reselect](https://github.com/piaoyidage/Learning-Journey-React/tree/master/reselect)
 
-[图片画廊](http://piaoyidage.github.com/gallery-by-react)
+👉 [redux-actions](https://github.com/piaoyidage/Learning-Journey-React/tree/master/redux-actions)
 
-### musi-player-by-react([source](https://github.com/piaoyidage/music-player-by-react))
-
-[音乐播放器](http://piaoyidage.github.com/music-player-by-react)
 
