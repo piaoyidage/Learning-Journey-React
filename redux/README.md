@@ -59,7 +59,6 @@ reducer 就是一个纯函数，接收旧的 state 和 action，返回新的 sta
 
 ```js
 (previousState, action) => newState
-;
 ```
 
 ### Store

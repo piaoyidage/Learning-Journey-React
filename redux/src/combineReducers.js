@@ -174,7 +174,9 @@ export default function combineReducers(reducers) {
         const errorMessage = getUndefinedStateErrorMessage(key, action)
         throw new Error(errorMessage)
       }
+      // reading: 更新 state
       nextState[key] = nextStateForKey
+      // reading: 判断 state 是否发生改变
       hasChanged = hasChanged || nextStateForKey !== previousStateForKey
     }
     return hasChanged ? nextState : state
